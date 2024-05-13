@@ -18,3 +18,5 @@ The branch naming format for a specific kernel release is
 [platform]/[build number]
 
 e.g. msm8992/AAC724
+
+## 🤝 Contributing
